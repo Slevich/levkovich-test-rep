@@ -1,0 +1,239 @@
+[
+{
+	"RecordClientID":"1",
+	"RecordDateTime":"31 января 2023 г. 15:24",
+	"RecordChangedData":"Номер телефона",
+	"RecordChangesType":"7 999 999 99 99 изменено на 7 555 555 55 55",
+	"RecordAuthor":"Consultant"
+},
+{
+	"RecordClientID":"1",
+	"RecordDateTime":"31 января 2023 г. 15:24",
+	"RecordChangedData":"Имя",
+	"RecordChangesType":"Лев изменено на Герман",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"1",
+	"RecordDateTime":"31 января 2023 г. 15:30",
+	"RecordChangedData":"Департамент",
+	"RecordChangesType":"Маркетинг изменено на Цифровые продукты",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"2",
+	"RecordDateTime":"31 января 2023 г. 15:31",
+	"RecordChangedData":"Департамент",
+	"RecordChangesType":"Цифровые продукты изменено на Маркетинг",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"3",
+	"RecordDateTime":"31 января 2023 г. 15:33",
+	"RecordChangedData":"Департамент",
+	"RecordChangesType":"Маркетинг изменено на Финансирование",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"9",
+	"RecordDateTime":"31 января 2023 г. 15:33",
+	"RecordChangedData":"Департамент",
+	"RecordChangesType":"Маркетинг изменено на Финансирование",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"9",
+	"RecordDateTime":"31 января 2023 г. 15:36",
+	"RecordChangedData":"Департамент",
+	"RecordChangesType":"Финансирование изменено на Цифровые продукты",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"9",
+	"RecordDateTime":"31 января 2023 г. 15:37",
+	"RecordChangedData":"Департамент",
+	"RecordChangesType":"Цифровые продукты изменено на Маркетинг",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"5",
+	"RecordDateTime":"31 января 2023 г. 15:37",
+	"RecordChangedData":"Департамент",
+	"RecordChangesType":"Цифровые продукты изменено на Финансирование",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"7",
+	"RecordDateTime":"31 января 2023 г. 15:38",
+	"RecordChangedData":"Департамент",
+	"RecordChangesType":"Маркетинг изменено на Цифровые продукты",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"14",
+	"RecordDateTime":"31 января 2023 г. 20:10",
+	"RecordChangedData":"Новый клиент.",
+	"RecordChangesType":"Добавлена новая запись о клиенте.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"15",
+	"RecordDateTime":"1 февраля 2023 г. 14:56",
+	"RecordChangedData":"Новый клиент.",
+	"RecordChangesType":"Добавлена новая запись о клиенте.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:15",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:16",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:18",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:21",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:23",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:24",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:25",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:27",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:27",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"9",
+	"RecordDateTime":"2 февраля 2023 г. 12:30",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"1",
+	"RecordDateTime":"2 февраля 2023 г. 12:30",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:31",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:33",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"1",
+	"RecordDateTime":"2 февраля 2023 г. 12:34",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 12:35",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"9",
+	"RecordDateTime":"2 февраля 2023 г. 12:35",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"1",
+	"RecordDateTime":"2 февраля 2023 г. 14:19",
+	"RecordChangedData":"Номер телефона",
+	"RecordChangesType":"7 999 999 99 99 изменено на 7 858 556 85 42",
+	"RecordAuthor":"Consultant"
+},
+{
+	"RecordClientID":"11",
+	"RecordDateTime":"2 февраля 2023 г. 14:20",
+	"RecordChangedData":"Новый клиент добавлен.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"11",
+	"RecordDateTime":"2 февраля 2023 г. 14:21",
+	"RecordChangedData":"Фамилия",
+	"RecordChangesType":"Рагозина изменено на Чадов",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"11",
+	"RecordDateTime":"2 февраля 2023 г. 14:22",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"10",
+	"RecordDateTime":"2 февраля 2023 г. 14:23",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+},
+{
+	"RecordClientID":"9",
+	"RecordDateTime":"2 февраля 2023 г. 14:24",
+	"RecordChangedData":"Клиент удален.",
+	"RecordChangesType":"Запись о клиенте изменена.",
+	"RecordAuthor":"Manager"
+}]

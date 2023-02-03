@@ -1,0 +1,18 @@
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\bin\Debug\Module_10.OOP.Part_1.exe.config
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\bin\Debug\Module_10.OOP.Part_1.exe
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\bin\Debug\Module_10.OOP.Part_1.pdb
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module 10. OOP. Part 1.csproj.AssemblyReference.cache
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\MainWindow.g.cs
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\App.g.cs
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module_10.OOP.Part_1_MarkupCompile.cache
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module_10.OOP.Part_1_MarkupCompile.lref
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\MainWindow.baml
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module_10.OOP.Part_1.g.resources
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module_10.OOP.Part_1.Properties.Resources.resources
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module 10. OOP. Part 1.csproj.GenerateResource.cache
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module 10. OOP. Part 1.csproj.CoreCompileInputs.cache
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module_10.OOP.Part_1.exe
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module_10.OOP.Part_1.pdb
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\bin\Debug\Newtonsoft.Json.dll
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\bin\Debug\Newtonsoft.Json.xml
+E:\Serega\Skillbox\C#-developer from 0 to PRO\Module 11\Module 10. OOP. Part 1\Module 10. OOP. Part 1\obj\Debug\Module 10. OOP. Part 1.csproj.CopyComplete

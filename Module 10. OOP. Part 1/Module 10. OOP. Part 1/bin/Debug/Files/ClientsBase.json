@@ -1,0 +1,72 @@
+[{
+	"ClientID" : "1",
+	"Department" : "Маркетинг",
+	"Surname" : "Стерлигов",
+	"FirstName" : "Лев",
+	"MiddleName" : "Петрович",
+	"PhoneNumber" : "7 858 556 85 42",
+	"PassportSeriesNumber" : "5018 456932"
+},
+{
+	"ClientID" : "2",
+	"Department" : "Цифровые продукты",
+	"Surname" : "Левакина",
+	"FirstName" : "Василиса",
+	"MiddleName" : "Петровна",
+	"PhoneNumber" : "7 777 777 77 77",
+	"PassportSeriesNumber" : "5020 593922"
+},
+{
+	"ClientID" : "3",
+	"Department" : "Маркетинг",
+	"Surname" : "Гущинков",
+	"FirstName" : "Сергей",
+	"MiddleName" : "Петрович",
+	"PhoneNumber" : "7 848 585 53 23",
+	"PassportSeriesNumber" : "4020 493432"
+},
+{
+	"ClientID" : "4",
+	"Department" : "Цифровые продукты",
+	"Surname" : "Афанасьева",
+	"FirstName" : "Александра",
+	"MiddleName" : "Андреевна",
+	"PhoneNumber" : "7 925 915 44 13",
+	"PassportSeriesNumber" : ""
+},
+{
+	"ClientID" : "5",
+	"Department" : "Цифровые продукты",
+	"Surname" : "Афанасьева",
+	"FirstName" : "Евгения",
+	"MiddleName" : "Сергеевна",
+	"PhoneNumber" : "7 999 905 14 99",
+	"PassportSeriesNumber" : "5012 589822"
+},
+{
+	"ClientID" : "6",
+	"Department" : "Финансирование",
+	"Surname" : "Лапина",
+	"FirstName" : "Александра",
+	"MiddleName" : "Валерьевна",
+	"PhoneNumber" : "7 885 885 99 96",
+	"PassportSeriesNumber" : "5011 565422"
+},
+{
+	"ClientID" : "7",
+	"Department" : "Маркетинг",
+	"Surname" : "Кукечев",
+	"FirstName" : "Сергей",
+	"MiddleName" : "Максимович",
+	"PhoneNumber" : "7 966 999 28 32",
+	"PassportSeriesNumber" : "5020 665435"
+},
+{
+	"ClientID" : "8",
+	"Department" : "Финансирование",
+	"Surname" : "Андронов",
+	"FirstName" : "Игорь",
+	"MiddleName" : "Андреевич",
+	"PhoneNumber" : "7 905 908 65 48",
+	"PassportSeriesNumber" : "5011 567483"
+}]
